@@ -19,7 +19,7 @@ The primary source of data used is Data Sales.csv, an open-source dataset that c
     1. Data Manipulation
     2. Data Munching
 - SQL Server (For Querying and Analysis)
-- Power BI (For creating a report)
+- Power BI for creating a report [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - MS PowerPoint (For Presentation)
 
 
