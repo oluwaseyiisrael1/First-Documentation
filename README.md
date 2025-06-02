@@ -13,7 +13,7 @@ The Data analysis project aims to generate insight into the sales performance of
 The primary source of data used is Data Sales.csv, an open-source dataset that can be downloaded from Kaggle, FRED, or any other data repository site.
 
 ### Tools Used
-- MS Excel for Data cleaning [Download Here](https://www.microsogt.com)
+- MS Excel for Data cleaning [Download Here](https://www.microsoft.com)
   - For Data collection
   - for data cleaning
     1. Data Manipulation
