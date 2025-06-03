@@ -26,5 +26,10 @@ The primary source of data used is Data Sales.csv, an open-source dataset that c
 SELECT A,B,C
 WHERE A> 45
 ```
+### Analysis
 
+
+
+
+![ChatGPT Image May 29, 2025, 02_07_04 PM](https://github.com/user-attachments/assets/9cb5690d-7fa8-4b94-8d08-2ea12082bef8)
 
